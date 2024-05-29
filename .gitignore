@@ -10,4 +10,4 @@ wp-content/plugins/*/
 // Ne pas ignorer les fichiers .gitignore et readme.md à la racine
 !.gitignore
 !readme.md
-!gitmodules
+!.gitmodules
