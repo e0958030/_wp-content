@@ -1,0 +1,6 @@
+[submodule "themes/tp2"]
+	path = themes/tp2
+	url = https://github.com/e0958030/4w4-2024
+[submodule "plugins/carrousel"]
+	path = plugins/carrousel
+	url = https://github.com/e0958030/carrousel
